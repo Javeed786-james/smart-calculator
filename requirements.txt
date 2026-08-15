@@ -1,0 +1,29 @@
+CALCULATOR PROJECT
+
+1. Project Name
+Smart Calculator
+
+2. Purpose
+A web-based calculator that performs basic mathematical calculations.
+
+3. Basic Operations
+- Addition (+)
+- Subtraction (-)
+- Multiplication (×)
+- Division (÷)
+- Modulus (%)
+
+4. Additional Features
+- Decimal numbers
+- Clear button
+- Delete/Backspace button
+- Equal button
+- Error handling for division by zero
+
+5. Technologies
+- HTML
+- CSS
+- JavaScript
+
+6. Platform
+Web Browser
