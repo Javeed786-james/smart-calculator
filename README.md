@@ -34,7 +34,7 @@ mmm
 
 ## Live Demo
 
-[Open Smart Calculator](YOUR-GITHUB-PAGES-LINK-HERE)
+[Open Smart Calculator](https://github.com/Javeed786-james/smart-calculator.git)
 
 ## Project Structure
 
